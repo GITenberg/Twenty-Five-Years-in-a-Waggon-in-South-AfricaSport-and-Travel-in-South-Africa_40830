@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40844'
     url: http://www.gutenberg.org/2009/agents/40844
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40830#Twenty-Five-Years-in-a-Waggon-in-South-AfricaSport-and-Travel-in-South-Africa
 gutenberg_issued: '2012-09-22'
 gutenberg_type: Text
 identifiers:
